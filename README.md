@@ -1,6 +1,6 @@
 # SIIM-ISIC Melanoma Classification
 ## Introduction
-This project was created as part of a Kaggle research competition: https://www.kaggle.com/c/global-wheat-detection
+This project was created as part of a Kaggle research competition: https://www.kaggle.com/c/siim-isic-melanoma-classification
 
 In this competition, you’ll identify melanoma in images of skin lesions. In particular, you’ll use images within the same patient and determine which are likely to represent a melanoma. Using patient-level contextual information may help the development of image analysis tools, which could better support clinical dermatologists.
 
