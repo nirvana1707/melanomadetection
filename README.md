@@ -23,8 +23,8 @@ Implementations of the above architectures can be found in the repo.
 
 ## Results
 EfficientNet with an accuracy range of 89%-91% performed better compared to the other architectures.
+Sample cases with melanoma
+![alt text](https://https://github.com/nirvana1707/melanomadetection/blob/main/images/melanoma_positive.PNG)
 
-Accuracy
-
-
-
+Sample cases without melanoma
+![alt text](https://https://github.com/nirvana1707/melanomadetection/blob/main/images/melanoma_negative.PNG)
