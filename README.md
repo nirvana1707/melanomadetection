@@ -18,7 +18,7 @@ I used different object detection frameworks on PyTorch to detect melanoma. Expe
 2. InceptionV4
 3. SE-ResNeXt
 
-Implementations of the above architectures can be found in the repo.
+Implementations of the above architectures (code base) can be found in the repo.
 
 ## Results
 EfficientNet with an accuracy range of 89%-91% performed better compared to the other architectures.
